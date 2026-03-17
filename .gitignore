@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+venv/
+password_report.txt
+build/
+dist/
+*.spec
